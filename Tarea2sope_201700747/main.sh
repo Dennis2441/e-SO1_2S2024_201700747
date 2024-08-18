@@ -12,3 +12,4 @@ for i in $(seq 1 $num_containers); do
   docker run -d --name $container_name alpine
   echo "Contenedor $container_name creado."
 done
+#Dennis Gamboa Stokes 201700747
