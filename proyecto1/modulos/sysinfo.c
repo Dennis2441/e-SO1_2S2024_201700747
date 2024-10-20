@@ -22,7 +22,7 @@ MODULE_AUTHOR("Tu Nombre"); // Nombre del autor
 MODULE_DESCRIPTION("Modulo para leer información de memoria y CPU en JSON"); // Descripción del módulo  
 MODULE_VERSION("1.0"); // Versión del módulo  
 
-#define PROC_NAME "sysinfo" // Nombre del archivo creado en /proc  
+#define PROC_NAME "sysinfo_201700747" // Nombre del archivo creado en /proc  
 #define MAX_CMDLINE_LENGTH 256 // Longitud máxima para la línea de comandos  
 #define CONTAINER_ID_LENGTH 64 // Longitud máxima para el ID del contenedor  
 

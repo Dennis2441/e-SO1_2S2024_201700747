@@ -1,0 +1,11 @@
+/home/dennis/Sistemaoperativos/e-SO1_2S2024_201700747/proyecto1/rust_service/target/debug/deps/libsocket2-8c9688becd0999b9.rmeta: /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/lib.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/sockaddr.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/socket.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/sockref.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/sys/unix.rs
+
+/home/dennis/Sistemaoperativos/e-SO1_2S2024_201700747/proyecto1/rust_service/target/debug/deps/libsocket2-8c9688becd0999b9.rlib: /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/lib.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/sockaddr.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/socket.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/sockref.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/sys/unix.rs
+
+/home/dennis/Sistemaoperativos/e-SO1_2S2024_201700747/proyecto1/rust_service/target/debug/deps/socket2-8c9688becd0999b9.d: /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/lib.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/sockaddr.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/socket.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/sockref.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/sys/unix.rs
+
+/home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/lib.rs:
+/home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/sockaddr.rs:
+/home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/socket.rs:
+/home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/sockref.rs:
+/home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.7/src/sys/unix.rs:

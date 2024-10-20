@@ -1,0 +1,11 @@
+/home/dennis/Sistemaoperativos/e-SO1_2S2024_201700747/proyecto1/rust_service/target/debug/deps/libctrlc-c8d72c13f5eaf6d5.rmeta: /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/lib.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/error.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/platform/mod.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/platform/unix/mod.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/signal.rs
+
+/home/dennis/Sistemaoperativos/e-SO1_2S2024_201700747/proyecto1/rust_service/target/debug/deps/libctrlc-c8d72c13f5eaf6d5.rlib: /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/lib.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/error.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/platform/mod.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/platform/unix/mod.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/signal.rs
+
+/home/dennis/Sistemaoperativos/e-SO1_2S2024_201700747/proyecto1/rust_service/target/debug/deps/ctrlc-c8d72c13f5eaf6d5.d: /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/lib.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/error.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/platform/mod.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/platform/unix/mod.rs /home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/signal.rs
+
+/home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/lib.rs:
+/home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/error.rs:
+/home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/platform/mod.rs:
+/home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/platform/unix/mod.rs:
+/home/dennis/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ctrlc-3.4.5/src/signal.rs:
