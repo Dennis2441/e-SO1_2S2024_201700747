@@ -1,0 +1,30 @@
+syntax = "proto3";  
+
+option go_package = "./;studentgrpc"; // Correct the path as needed  
+
+package studentgrpc; // Use a single package name;  
+
+// Define our service and the method  
+service Student {  
+    rpc GetStudent(StudentRequest) returns (StudentResponse);  
+}  
+
+// The student request message  
+message StudentRequest {  
+    string name = 1;  
+    int32 age = 3;  
+    string faculty = 2;  
+    Discipline discipline = 4;  
+}  
+
+// Enum representing different disciplines  
+enum Discipline {  
+    swimming = 0;  
+    boxing = 1;  
+    trackandfield = 2;  
+}  
+
+// The response message for getting a student  
+message StudentResponse {  
+    bool success = 1;  
+}
