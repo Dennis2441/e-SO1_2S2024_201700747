@@ -1,0 +1,41 @@
+apiVersion: apps/v1  
+kind: Deployment  
+metadata:  
+  name: grpc-client-go  
+  namespace: sopes1  
+spec:  
+  replicas: 1  
+  selector:  
+    matchLabels:  
+      app: grpc-client-go  
+  template:  
+    metadata:  
+      labels:  
+        app: grpc-client-go  
+    spec:  
+      containers:  
+      - name: grpc-client-go  
+        image: dennis2441/golang-client-grpc:latest  
+        resources:  
+          requests:  
+            memory: "64Mi"  
+            cpu: "100m"  
+          limits:  
+            memory: "128Mi"  
+            cpu: "200m"  
+        ports:  
+        - containerPort: 8080  
+---  
+apiVersion: v1  
+kind: Service  
+metadata:  
+  name: go-client-service  
+  namespace: sopes1  
+spec:  
+  selector:  
+    app: grpc-client-go  
+  ports:  
+    - protocol: TCP  
+      port: 8080  
+      targetPort: 8080  
+  type: ClusterIP
